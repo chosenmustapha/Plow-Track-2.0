@@ -1,0 +1,1 @@
+All necessary files for replicating tracking system can be found on this drive. The files for the website are located in the Website folder. The C++ code for the tracking device is in the Tracking device code folder. One code has a terminal debugging feature for troubleshooting and the other is the final code optimized for perfect functionality.
